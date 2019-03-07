@@ -87,8 +87,8 @@ echo $me"9." $i" PROFILGUARD FB"
 echo $me"10." $i" YAHOO CLONING"
 echo $i"00." $ku" EXIT"
 echo
-echo $bi"╭─["$i"@K4MBING HIT4M"$bi"]"
-read -p"╰─>> " pil
+echo $me"╭─["$cy"Masukan pilihan anda"$me"]"
+read -p"╰─root@./KAMBINGHIT4M= " pil
 
 
 if [ $pil = 1 ]
