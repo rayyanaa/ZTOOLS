@@ -168,7 +168,7 @@ clear
 figlet -f slant "SABAR"|lolcat
 sleep 1
 git clone https://github.com/senitopeng/fbbrute.git
-cd fbbrute
+cd fbbrute -r password.txt
 python2 jomblo.py
 fi
 
