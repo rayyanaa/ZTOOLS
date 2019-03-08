@@ -172,6 +172,7 @@ cd fbbrute -r password.txt
 pkg install python2-dev
 pkg install php -y
 python2 jomblo.py
+python2 fbbrute.py
 fi
 
 if [ $pil = 9 ]
