@@ -169,7 +169,7 @@ figlet -f slant "SABAR"|lolcat
 sleep 1
 git clone https://github.com/senitopeng/fbbrute.git
 cd fbbrute -r password.txt
-python2 jomblo.py
+python2 fbbrute2.py
 fi
 
 if [ $pil = 9 ]
