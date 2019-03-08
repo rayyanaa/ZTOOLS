@@ -171,7 +171,7 @@ git clone https://github.com/senitopeng/fbbrute.git
 cd fbbrute -r password.txt
 pkg install python2-dev
 pkg install php -y
-python2 fbbrute2.py
+python2 jomblo.py
 fi
 
 if [ $pil = 9 ]
@@ -189,7 +189,7 @@ then
 clear
 figlet -f slant "SABAR"|lolcat
 sleep 1
-https://github.com/wahyuandhika/YahooCloning
+git clone https://github.com/wahyuandhika/YahooCloning
 pip2 install requests mechanize
 pip2 install requirements
 python2 cloning.py
