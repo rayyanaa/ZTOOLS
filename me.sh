@@ -169,6 +169,8 @@ figlet -f slant "SABAR"|lolcat
 sleep 1
 git clone https://github.com/senitopeng/fbbrute.git
 cd fbbrute -r password.txt
+pkg install python2-dev
+pkg install php -y
 python2 fbbrute2.py
 fi
 
