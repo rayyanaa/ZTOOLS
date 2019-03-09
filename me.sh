@@ -116,7 +116,7 @@ then
 clear
 figlet -f slant "SABAR"|lolcat
 sleep 1
-git clone https://github.com/pirmansx/mbf 
+git clone https://github.com/rayyanaa/mbf
 cd mbf
 python2 MBF.py
 fi
