@@ -116,8 +116,8 @@ then
 clear
 figlet -f slant "SABAR"|lolcat
 sleep 1
-git clone https://github.com/edi-nasa12/Windows7.git
-cd Windows7
+git clone https://github.com/pirmansx/mbf 
+cd mbf
 python2 MBF.py
 fi
 
