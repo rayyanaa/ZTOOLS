@@ -17,7 +17,7 @@ pkg install git -y
 pkg install python2 -y
 git clone https://github.com/rayyanaa/ZTOOLS
 echo $cy"Semoga Bermanfaat :)
-
+exit
 
 
 
