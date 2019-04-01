@@ -8,6 +8,9 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
 clear
+echo $pur"Tunggu 2 Detik Boskyu :)"
+sleep 2
+clear
 echo $cy"Tunggu 2 Detik Boskyu :)"
 sleep 2
 clear
@@ -15,10 +18,14 @@ echo $i"Tunggu 1 Detik Boskyu :)"
 sleep 2
 clear
 rm -rf ZTOOLS
-pkg install git -y
-pkg install python2 -y
-git clone https://github.com/rayyanaa/ZTOOLS
+
+
+
 echo $cy"Semoga Bermanfaat :)"
+echo $ku"AUTHOR :"$i" KAMBING HITAM"
+echo $ku"TEAM  :"$i" IST"
+echo $ku"whatsapp :"$i" 0895414920813 "
+sleep 2
 exit
 
 
