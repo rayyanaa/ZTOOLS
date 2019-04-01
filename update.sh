@@ -17,16 +17,18 @@ clear
 echo $i"Tunggu 1 Detik Boskyu :)"
 sleep 2
 clear
+cd
 rm -rf ZTOOLS
-
-
-
+pkg install git -y
+pkg install python2 -y
+git clone https://github.com/rayyanaa/ZTOOLS
 echo $cy"Semoga Bermanfaat :)"
 echo $ku"AUTHOR :"$i" KAMBING HITAM"
 echo $ku"TEAM  :"$i" IST"
 echo $ku"whatsapp :"$i" 0895414920813 "
 sleep 2
 exit
+
 
 
 
