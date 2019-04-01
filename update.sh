@@ -8,10 +8,12 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
 clear
-echo $pur"Tunggu 2Detik"
+echo $cy"Tunggu 2 Detik Boskyu :)"
 sleep 2
-echo $i"Tunggu 1Detik"
+clear
+echo $i"Tunggu 1 Detik Boskyu :)"
 sleep 2
+clear
 rm -rf ZTOOLS
 pkg install git -y
 pkg install python2 -y
