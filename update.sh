@@ -23,6 +23,7 @@ pkg install git -y
 pkg install python2 -y
 git clone https://github.com/rayyanaa/ZTOOLS
 echo $cy"Semoga Bermanfaat :)"
+sleep 2
 echo $ku"AUTHOR :"$i" KAMBING HITAM"
 echo $ku"TEAM  :"$i" IST"
 echo $ku"whatsapp :"$i" 0895414920813 "
