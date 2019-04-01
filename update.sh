@@ -8,7 +8,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
 clear
-echo $pur"Tunggu 2 Detik Boskyu :)"
+echo $pur"Tunggu 3 Detik Boskyu :)"
 sleep 2
 clear
 echo $cy"Tunggu 2 Detik Boskyu :)"
